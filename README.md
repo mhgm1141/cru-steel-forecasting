@@ -1,4 +1,4 @@
-# CRU Steel Price Forecasting 🔩📈
+# CRU Steel Price Forecasting
 
 Time series analysis and forecasting of CRUspi Asia and CRUspi Longs steel price indices using Facebook Prophet. Built as a portfolio project combining domain expertise in the steel industry with data science techniques.
 
